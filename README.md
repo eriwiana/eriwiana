@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eri
 - 👀 I’m interested in Python, Django, Svelte, and GraphQL
 - 💞️ I’m looking to collaborate on non-profit project/organization
-- 📫 How to reach me eriwhidayat@gmail.com
+- 📫 How to reach me eriwiana@gmail.com
 
 <!---
 erwnhdyt/erwnhdyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
