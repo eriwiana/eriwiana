@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eri
-- 🧩 I’m interested in Python, Django, Svelte, GraphQL, and other tech stuff!
+- 🧩 I’m a Backend Engineer with Python 💙
 
 <!---
 erwnhdyt/erwnhdyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
